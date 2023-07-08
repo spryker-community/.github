@@ -2,7 +2,7 @@
 spryker-community/.github is a ✨ special ✨ repository because its `README.md` (this file) appears on our GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![github-profile](https://github.com/spryker-community/.github/blob/main/spryker-community-github-bg.png?raw=true)](https://www.spryker.com/community)
+[![github-profile](https://github.com/spryker-community/.github/blob/main/profile/spryker-community-github-bg.png?raw=true)](https://www.spryker.com/community)
 <h1 align="center">Hi 👋 We are the official Spryker Community</a> 👋</h1>
 <h2 align="center">We like to build and share.</h2>
 
@@ -30,7 +30,7 @@ TBD
 ## 📹 Latest Video's
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Why Spryker is great for Developers](https://raw.githubusercontent.com/spryker-community/.github/main/hq720.webp)](https://www.youtube.com/watch?v=dK7SeH7t5MQ)
-
+[![Why Spryker is great for Developers](https://github.com/spryker-community/.github/blob/main/profile/hq720.jpeg?raw=true)](https://www.youtube.com/watch?v=dK7SeH7t5MQ)
+[![Non-Functional Requirements (NFRs) and their dependencies](https://raw.githubusercontent.com/spryker-community/.github/main/profile/nrfs.webp)](https://www.youtube.com/watch?v=IQ_duhgT2EA)
 <!-- END YOUTUBE-CARDS -->
 ➡️ [View more Spryker Developer video's](https://www.youtube.com/watch?v=dK7SeH7t5MQ&list=PLJooqCSo73SiPKM3mlZzc7lGq5zEFQkRS)
