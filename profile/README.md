@@ -6,6 +6,15 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋 We are the official Spryker Community</a> 👋</h1>
 <h2 align="center">We like to build and share.</h2>
 
+## Want to contribute code?
+Check out our [Contribution Guidelines](https://github.com/spryker-community/docs/blob/main/CONTRIBUTE.md)
+
+## Need us to create a repository for us?
+DM [Florian](https://commerceverse.space/profile/fsmeier) on [CommerceVerse]() and ask him to create a new repo for you.
+
+## Spryker Community Wiki
+See Spryker [Community Wiki](https://github.com/spryker-community/docs/wiki) 
+
 ## 🚀 Join the official Spryker Forum at [CommerceVerse](https://commerceverse.space/)
 Other resources:
 - 👨‍💻 [Spryker core GitHub](https://github.com/spryker)
