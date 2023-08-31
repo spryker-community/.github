@@ -10,12 +10,12 @@ You can click the Preview link to take a look at your changes.
 Check out our [Contribution Guidelines](https://github.com/spryker-community/docs/blob/main/CONTRIBUTE.md)
 
 ## Need us to create a repository for us?
-DM [Florian](https://commerceverse.space/profile/fsmeier) on [CommerceVerse]() and ask him to create a new repo for you.
+DM [Florian](https://commercequest.space/profile/fsmeier) on [CommerceQuest](https://commercequest.space/) and ask him to create a new repo for you.
 
 ## Spryker Community Wiki
 See Spryker [Community Wiki](https://github.com/spryker-community/docs/wiki) 
 
-## 🚀 Join the official Spryker Forum at [CommerceVerse](https://commerceverse.space/)
+## 🚀 Join the official Spryker Forum at [CommerceQuest](https://commercequest.space/)
 Other resources:
 - 👨‍💻 [Spryker core GitHub](https://github.com/spryker)
 - 📄 [Spryker Documentation](https://docs.spryker.com/)
@@ -34,7 +34,7 @@ Other resources:
 <!-- BLOG-POST-LIST:START -->
 TBD
 <!-- BLOG-POST-LIST:END -->
-➡️ [View Recent Discussions](https://commerceverse.space/discussions)
+➡️ [View Recent Discussions](https://commercequest.space/discussions)
 
 ## 📹 Latest Video's
 
