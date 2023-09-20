@@ -2,9 +2,19 @@
 spryker-community/.github is a ✨ special ✨ repository because its `README.md` (this file) appears on our GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![](https://img.shields.io/badge/Community_Forum-CommerceQuest-EC008C)](https://commercequest.space/) [![](https://cauldron.io/project/7882/export/svg/git_contributors.svg)](#contributors)
+ 
+
 [![github-profile](https://github.com/spryker-community/.github/blob/main/profile/spryker-community-github-bg.png?raw=true)](https://www.spryker.com/community)
 <h1 align="center">Hi 👋 We are the official Spryker Community</a> 👋</h1>
 <h2 align="center">We like to build and share.</h2>
+
+The Spryker Community Github is a project to empower our open source community extension maintainers, and encourage new contributors to get started contributing to the Spryker ecosystem. 
+
+Extensions in the Spryker Community Github are independently led and maintained projects by members of the broader Spryker community, some of whom happen to be Spryker employees, or are projects/tutorials that are created and maintained by the Spryker team!
+
+> :warning: Spryker extensions found in the Spryker Community Github are maintained by the community and are not part of the commercial Spryker product. Spryker does not support community extensions as part of its commercial services to enterprise customers.
+
 
 ## Want to contribute code?
 Check out our [Contribution Guidelines](https://github.com/spryker-community/docs/blob/main/CONTRIBUTE.md)
