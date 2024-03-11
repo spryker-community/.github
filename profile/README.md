@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 
 [![github-profile](https://github.com/spryker-community/.github/blob/main/profile/spryker-community-github-bg.png?raw=true)](https://www.spryker.com/community)
 <h1 align="center">Hi 👋 We are the official Spryker Community</a> 👋</h1>
-<h2 align="center">We like to build and share.</h2>
+<h2 align="center">We like to build and share our innovations.</h2>
 
-The Spryker Community Github is a project to empower our open source community extension maintainers, and encourage new contributors to get started contributing to the Spryker ecosystem. 
+The Spryker Community Github is a project to empower our open source community extension maintainers, and encourage new contributors to get started contributing to the Spryker ecosystem.  
 
 Extensions in the Spryker Community Github are independently led and maintained projects by members of the broader Spryker community, some of whom happen to be Spryker employees, or are projects/tutorials that are created and maintained by the Spryker team!
 
