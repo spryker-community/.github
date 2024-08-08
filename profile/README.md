@@ -21,10 +21,7 @@ Extensions in the Spryker Community Github are independently led and maintained 
 Check out our [Contribution Guidelines](https://github.com/spryker-community/docs/blob/main/CONTRIBUTE.md)
 
 ## Need us to create a repository for us?
-DM [Florian](https://commercequest.space/profile/fsmeier) on [CommerceQuest](https://commercequest.space/) and ask him to create a new repo for you.
-
-## Spryker Community Wiki
-See Spryker [Community Wiki](https://github.com/spryker-community/docs/wiki) 
+DM [Florian](https://forum.commercequest.space/profile/fsmeier) on [CommerceQuest](https://commercequest.space/) and ask him to create a new repo for you.
 
 ## 🚀 Join the official Spryker Forum at [CommerceQuest](https://commercequest.space/)
 Other resources:
@@ -45,7 +42,7 @@ Other resources:
 <!-- BLOG-POST-LIST:START -->
 TBD
 <!-- BLOG-POST-LIST:END -->
-➡️ [View Recent Discussions](https://commercequest.space/discussions)
+➡️ [View Recent Discussions](https://forum.commercequest.space/discussions)
 
 ## 📹 Latest Video's
 
