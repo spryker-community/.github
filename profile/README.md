@@ -23,13 +23,15 @@ Check out our [Contribution Guidelines](https://github.com/spryker-community/doc
 ## Need us to create a repository for us?
 DM [Florian](https://forum.commercequest.space/profile/fsmeier) on [CommerceQuest](https://commercequest.space/) and ask him to create a new repo for you.
 
-## 🚀 Join the official Spryker Forum at [CommerceQuest](https://commercequest.space/)
+## 🚀 Join the official Spryker [Forum at CommerceQuest](https://forum.commercequest.space/)
 Other resources:
 - 👨‍💻 [Spryker core GitHub](https://github.com/spryker)
 - 📄 [Spryker Documentation](https://docs.spryker.com/)
 - 🖥 [Spryker.com](https://www.spryker.com)
 
 ## 🤝 Connect with Spryker on...
+[![Slack](https://img.shields.io/badge/Slack-4A144B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/sprykercommunity/shared_invite/zt-2r8nyxl84-SFMyKuJ8IjFBtk0~BvWX~w)
+[![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kjrdurASgX)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/company/spryker-systems-gmbh)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sprysys)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/spryker/)
