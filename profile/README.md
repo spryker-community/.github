@@ -21,9 +21,9 @@ Extensions in the Spryker Community Github are independently led and maintained 
 Check out our [Contribution Guidelines](https://github.com/spryker-community/docs/blob/main/CONTRIBUTE.md)
 
 ## Need us to create a repository for us?
-DM [Hidran Arias](https://commercequest.space/) on [Slack community]([https://commercequest.space/](https://sprykercommunity.slack.com/)) and ask him to create a new repo for you.
+DM [Hidran Arias](https://commercequest.space/) on [Slack community](https://sprykercommunity.slack.com/) and ask him to create a new repo for you.
 
-## 🚀 Join the official Spryker [Forum at CommerceQuest](https://forum.commercequest.space/](https://sprykercommunity.slack.com/)
+## 🚀 Join the official Spryker [Forum at CommerceQuest](https://sprykercommunity.slack.com/)
 Other resources:
 - 👨‍💻 [Spryker core GitHub](https://github.com/spryker)
 - 📄 [Spryker Documentation](https://docs.spryker.com/)
@@ -39,11 +39,6 @@ Other resources:
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/spryker/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC6lVOEbqXxUh0W5FMTvlPDQ)
 
-## 📝 Latest Community Posts
-
-<!-- BLOG-POST-LIST:START -->
-TBD
-<!-- BLOG-POST-LIST:END -->
 
 
 ## 📹 Latest Video's
@@ -51,4 +46,4 @@ TBD
 <!-- BEGIN YOUTUBE-CARDS -->
 
 <!-- END YOUTUBE-CARDS -->
-➡️ [View Spryker Developer video's]([https://www.youtube.com/watch?v=dK7SeH7t5MQ&list=PLJooqCSo73SiPKM3mlZzc7lGq5zEFQkRS](https://commercequest.space/videos/))
+➡️ [View Spryker Developer video's](https://commercequest.space/videos/)
