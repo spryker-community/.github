@@ -21,9 +21,9 @@ Extensions in the Spryker Community Github are independently led and maintained 
 Check out our [Contribution Guidelines](https://github.com/spryker-community/docs/blob/main/CONTRIBUTE.md)
 
 ## Need us to create a repository for us?
-DM [Florian](https://forum.commercequest.space/profile/fsmeier) on [CommerceQuest](https://commercequest.space/) and ask him to create a new repo for you.
+DM [Hidran Arias](https://commercequest.space/) on [Slack community]([https://commercequest.space/](https://sprykercommunity.slack.com/)) and ask him to create a new repo for you.
 
-## 🚀 Join the official Spryker [Forum at CommerceQuest](https://forum.commercequest.space/)
+## 🚀 Join the official Spryker [Forum at CommerceQuest](https://forum.commercequest.space/](https://sprykercommunity.slack.com/)
 Other resources:
 - 👨‍💻 [Spryker core GitHub](https://github.com/spryker)
 - 📄 [Spryker Documentation](https://docs.spryker.com/)
@@ -44,12 +44,11 @@ Other resources:
 <!-- BLOG-POST-LIST:START -->
 TBD
 <!-- BLOG-POST-LIST:END -->
-➡️ [View Recent Discussions](https://forum.commercequest.space/discussions)
+
 
 ## 📹 Latest Video's
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Why Spryker is great for Developers](https://github.com/spryker-community/.github/blob/main/profile/hq720.jpeg?raw=true)](https://www.youtube.com/watch?v=dK7SeH7t5MQ)
-[![Non-Functional Requirements (NFRs) and their dependencies](https://raw.githubusercontent.com/spryker-community/.github/main/profile/nrfs.webp)](https://www.youtube.com/watch?v=IQ_duhgT2EA)
+
 <!-- END YOUTUBE-CARDS -->
-➡️ [View more Spryker Developer video's](https://www.youtube.com/watch?v=dK7SeH7t5MQ&list=PLJooqCSo73SiPKM3mlZzc7lGq5zEFQkRS)
+➡️ [View Spryker Developer video's]([https://www.youtube.com/watch?v=dK7SeH7t5MQ&list=PLJooqCSo73SiPKM3mlZzc7lGq5zEFQkRS](https://commercequest.space/videos/))
